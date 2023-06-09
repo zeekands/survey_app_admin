@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "797520807518",
+    "project_id": "surveyapp-34a4f",
+    "storage_bucket": "surveyapp-34a4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797520807518:android:de8fe572837bd832d296cf",
+        "android_client_info": {
+          "package_name": "com.mizwar.survey_app_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797520807518-gl5bt68a3e0k9mcbopjtlnepoqb4s27g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBnUffl8yuGKGGGk9rsB8W5T9c-oENRpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797520807518-gl5bt68a3e0k9mcbopjtlnepoqb4s27g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
